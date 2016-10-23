@@ -41,6 +41,11 @@ gem 'searchkick'
 gem 'geocoder'
 gem 'gmaps4rails'
 
+# a charting library for Ruby on Rails 
+# https://richonrails.com/articles/charting-with-chartkick
+gem 'chartkick'
+gem 'groupdate'
+gem 'active_median'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
