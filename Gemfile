@@ -36,6 +36,7 @@ gem 'figaro'
 # Use searchkick for search engine
 gem 'searchkick'
 
+#https://www.sitepoint.com/geocoder-display-maps-and-find-places-in-rails/
 # Use geocoder and gmaps4rails for location and maps
 gem 'geocoder'
 gem 'gmaps4rails'
